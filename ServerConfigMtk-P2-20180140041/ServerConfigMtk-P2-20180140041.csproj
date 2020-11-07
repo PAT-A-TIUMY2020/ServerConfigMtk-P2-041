@@ -33,7 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ServiceMtk-P2-20180140041">
+    <Reference Include="ServiceMtk-P2-20180140041, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\ServiceMtk-P2-20180140041\ServiceMtk-P2-20180140041\bin\Debug\ServiceMtk-P2-20180140041.dll</HintPath>
     </Reference>
     <Reference Include="System" />
